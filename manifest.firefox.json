@@ -15,7 +15,8 @@
   ],
   "host_permissions": [
     "https://api.github.com/*",
-    "https://github.com/login/oauth/*"
+    "https://github.com/login/oauth/*",
+    "https://github.com/login/device/*"
   ],
   "background": {
     "scripts": ["background.js"],
